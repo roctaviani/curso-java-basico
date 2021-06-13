@@ -1,6 +1,6 @@
 package com.loiane.cursojava.aula65;
 
-import com.loiane.cursojava.aula61.Contato;
+import com.loiane.cursojava.aula61_passagemvalorparam.Contato;
 
 public class ColetorLixo {
 	
