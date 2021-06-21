@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aulas85_100;
+package com.loiane.cursojava.aulas96_99_numeros;
 
 import java.util.Random;
 

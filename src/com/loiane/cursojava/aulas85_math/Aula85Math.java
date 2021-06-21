@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aulas85_100;
+package com.loiane.cursojava.aulas85_math;
 
 public class Aula85Math {
 

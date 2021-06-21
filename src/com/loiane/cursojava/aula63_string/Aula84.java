@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aula75_84;
+package com.loiane.cursojava.aula63_string;
 
 import java.util.StringTokenizer;
 
